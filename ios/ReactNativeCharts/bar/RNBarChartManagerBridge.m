@@ -2,7 +2,7 @@
 //  Copyright wuxudong
 //
 
-#import "React/RCTViewManager.h"
+#import "RCTViewManager.h"
 #import "RNChartManagerBridge.h"
 #import "RNYAxisChartManagerBridge.h"
 #import "RNBarLineChartManagerBridge.h"

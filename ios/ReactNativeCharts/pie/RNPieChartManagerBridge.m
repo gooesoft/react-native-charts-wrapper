@@ -2,7 +2,7 @@
 //  Copyright © 2017 wuxudong. All rights reserved.
 //
 
-#import "React/RCTViewManager.h"
+#import "RCTViewManager.h"
 #import "RNChartManagerBridge.h"
 
 @interface RCT_EXTERN_MODULE(RNPieChartManager, RCTViewManager)

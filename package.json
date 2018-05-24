@@ -1,21 +1,89 @@
 {
-  "name": "react-native-charts-wrapper",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wuxudong/react-native-charts-wrapper.git"
+  "_args": [
+    [
+      {
+        "raw": "react-native-charts-wrapper@^0.2.5",
+        "scope": null,
+        "escapedName": "react-native-charts-wrapper",
+        "name": "react-native-charts-wrapper",
+        "rawSpec": "^0.2.5",
+        "spec": ">=0.2.5 <0.3.0",
+        "type": "range"
+      },
+      "/Users/mac/ReactNative/goc-react-native"
+    ]
+  ],
+  "_from": "react-native-charts-wrapper@>=0.2.5 <0.3.0",
+  "_id": "react-native-charts-wrapper@0.2.5",
+  "_inCache": true,
+  "_location": "/react-native-charts-wrapper",
+  "_nodeVersion": "7.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-charts-wrapper-0.2.5.tgz_1490351766183_0.7122483847197145"
   },
-  "version": "0.2.5",
+  "_npmUser": {
+    "name": "wuxudong",
+    "email": "xudong82113@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-charts-wrapper@^0.2.5",
+    "scope": null,
+    "escapedName": "react-native-charts-wrapper",
+    "name": "react-native-charts-wrapper",
+    "rawSpec": "^0.2.5",
+    "spec": ">=0.2.5 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npmjs.org/react-native-charts-wrapper/-/react-native-charts-wrapper-0.2.5.tgz",
+  "_shasum": "b39f0d8d3a8ff5599837ce09a1139a481fc24b43",
+  "_shrinkwrap": null,
+  "_spec": "react-native-charts-wrapper@^0.2.5",
+  "_where": "/Users/mac/ReactNative/goc-react-native",
+  "author": {
+    "name": "wuxudong"
+  },
+  "bugs": {
+    "url": "https://github.com/wuxudong/react-native-charts-wrapper/issues"
+  },
+  "dependencies": {},
   "description": "A react-native charts support both android and ios.",
-  "author": "wuxudong",
-  "license": "MIT",
-  "nativePackage": true,
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b39f0d8d3a8ff5599837ce09a1139a481fc24b43",
+    "tarball": "https://registry.npmjs.org/react-native-charts-wrapper/-/react-native-charts-wrapper-0.2.5.tgz"
+  },
+  "gitHead": "0585bd911f6e8c749f1d87d09172b74950c576e9",
   "homepage": "https://github.com/wuxudong/react-native-charts-wrapper",
-  "keywords":  [
+  "keywords": [
     "react native",
     "chart",
     "android",
     "MPAndroidChart",
     "ios",
     "Charts"
-  ]
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "wuxudong",
+      "email": "xudong82113@gmail.com"
+    }
+  ],
+  "name": "react-native-charts-wrapper",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxudong/react-native-charts-wrapper.git"
+  },
+  "scripts": {},
+  "version": "0.2.5"
 }
